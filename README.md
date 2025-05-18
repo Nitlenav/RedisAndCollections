@@ -1,4 +1,4 @@
-# RedisAndCollections
+# Redis and collections
 First, some facts:
 
 There is key-value storage: Redis.
